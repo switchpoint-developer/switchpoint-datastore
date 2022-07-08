@@ -1,1 +1,205 @@
-my new file contents
+[
+  {
+    "id": 1,
+    "name": "SUB MINIATURE ROCKER SWITCHES (SMRS SERIES)",
+    "description": "",
+    "items": [
+      {
+        "category_id": 1,
+        "category_name": "SUB MINIATURE ROCKER SWITCHES (SMRS SERIES)",
+        "id": 1,
+        "serial_number": 1,
+        "name": "SMRS 101",
+        "make": "ZX",
+        "type": "SPST",
+        "color": "RED,BLACK,   WHITE",
+        "MOQ": 500,
+        "price": 6,
+        "currency": "INR",
+        "description": {
+          "Function": "ON-OFF",
+          "No of pins": 2,
+          "ILLUMINATED": "NO",
+          "Rating ": {
+            "Current Amp": 3,
+            " Voltage Ac": 250
+          },
+          "Size": {
+            "Length (mm)": 13,
+            "Width (mm)": 9
+          }
+        },
+        "extra_info": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "additional_attributes": [
+          "Some feature to be listed extra",
+          "another feature can be listed as well",
+          "the silsila of features can continue"
+        ],
+        "images": [
+          "https://5.imimg.com/data5/SELLER/Default/2022/1/XV/FW/TX/1269108/3-amp-subminiature-rocker-switch-500x500.jpeg",
+          "https://5.imimg.com/data5/SELLER/Default/2022/1/NC/DD/SW/1269108/3-amp-subminiature-rocker-switch-500x500.jpeg"
+        ]
+      },
+      {
+        "category_id": 1,
+        "category_name": "SUB MINIATURE ROCKER SWITCHES (SMRS SERIES)",
+        "id": 2,
+        "serial_number": 2,
+        "name": "SMRS 102 ",
+        "make": "ZX",
+        "type": "SPDT",
+        "color": "RED,BLACK.",
+        "MOQ": 500,
+        "price": 8,
+        "currency": "INR",
+        "description": {
+          "Function": "ON-ON",
+          "No of pins": 3,
+          "ILLUMINATED": "NO",
+          "Rating ": {
+            "Current Amp": 3,
+            " Voltage Ac": 250
+          },
+          "Size": {
+            "Length (mm)": 13,
+            "Width (mm)": 9
+          }
+        },
+        "additional_attributes": [
+          "Some feature to be listed extra",
+          "another feature can be listed as well",
+          "the silsila of features can continue"
+        ],
+        "images": [
+          "https://5.imimg.com/data5/SELLER/Default/2022/1/JC/VZ/IC/1269108/3-amp-subminiature-round-rocker-switch-500x500.jpeg"
+        ]
+      },
+      {
+        "category_id": 1,
+        "category_name": "SUB MINIATURE ROCKER SWITCHES (SMRS SERIES)",
+        "id": 3,
+        "serial_number": 3,
+        "name": "SMRS 103",
+        "make": "CAMAY",
+        "type": "SPDT",
+        "color": "BLACK",
+        "MOQ": 500,
+        "price": 10,
+        "currency": "INR",
+        "description": {
+          "Function": "ON - OFF - ON",
+          "No_of_pins": 3,
+          "ILLUMINATED": "NO",
+          "Rating ": {
+            "Current Amp": 3,
+            " Voltage Ac": 250
+          },
+          "Size": {
+            "Length (mm)": 13,
+            "Width (mm)": 9
+          }
+        },
+        "extra_info": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "images": [
+          "https://5.imimg.com/data5/SELLER/Default/2022/1/WE/WM/EI/1269108/6-amp-miniature-oval-rocker-switch-500x500.jpeg"
+        ]
+      },
+      {
+        "category_id": 1,
+        "category_name": "SUB MINIATURE ROCKER SWITCHES (SMRS SERIES)",
+        "id": 4,
+        "serial_number": 4,
+        "name": "RSMRS 101 8C",
+        "make": "CAMAY",
+        "type": "SPST",
+        "color": "BLACK, WHITE",
+        "MOQ": 500,
+        "price": 12,
+        "currency": "INR",
+        "description": {
+          "Function": "ON-OFF",
+          "No_of_pins": 2,
+          "ILLUMINATED": "NO",
+          "Rating ": {
+            "Current Amp": 3,
+            " Voltage Ac": 250
+          },
+          "Size": {
+            "Length (mm)": 16.5
+          }
+        },
+        "images": [
+          "https://5.imimg.com/data5/SELLER/Default/2022/1/JC/HK/WC/1269108/6-amp-rectangle-rocker-switch-500x500.jpeg"
+        ]
+      },
+      {
+        "category_id": 1,
+        "category_name": "SUB MINIATURE ROCKER SWITCHES (SMRS SERIES)",
+        "id": 5,
+        "serial_number": 5,
+        "name": "RSMRS 103 8C",
+        "make": "CAMAY",
+        "type": "SPDT",
+        "color": "BLACK",
+        "MOQ": 500,
+        "price": 12,
+        "currency": "INR",
+        "description": {
+          "Function": "ON - OFF - ON",
+          "No_of_pins": 3,
+          "ILLUMINATED": "NO",
+          "Rating ": {
+            "Current Amp": 3,
+            " Voltage Ac": 250
+          },
+          "Size": {
+            "Length (mm)": 16.5
+          }
+        },
+        "images": [
+          "https://5.imimg.com/data5/SELLER/Default/2022/1/VG/UW/SO/1269108/16-amp-rocker-switch-500x500.jpeg",
+          "https://5.imimg.com/data5/SELLER/Default/2022/1/UJ/NO/OX/1269108/16-amp-rocker-switch-500x500.jpeg"
+        ]
+      }
+    ],
+    "total": 5
+  },
+    {
+        "id": "category_name_2",
+        "name": "category_name_2",
+        "total": "",
+        "description": "",
+        "items": [
+          {
+            "id": "part name",
+            "name": "part name",
+            "price": "price",
+            "currency": "INR",
+            "MOQ": "",
+            "make": "",
+            "color": "",
+            "user_rating": 5,
+            "type": "",
+            "images": [
+              "url"
+            ],
+            "extra_info": " with \n for new line",
+            "files": [
+              {
+                "name": "name",
+                "url": "url"
+              }
+            ],
+            "additional_attributes": [
+              "url"
+            ],
+            "description": [
+              {
+                "name": "",
+                "value": ""
+              }
+            ]
+          }
+        ]
+      }
+  ]
