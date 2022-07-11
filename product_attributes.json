@@ -1,0 +1,223 @@
+{
+    "product_details": [
+        {
+            "key": "name",
+            "label": "Name",
+            "options": [],
+            "multiple": false
+        },
+        {
+            "key": "id",
+            "label": "Product id",
+            "type": "text"
+        },
+        {
+            "key": "price",
+            "label": "Price",
+            "options": [],
+            "multiple": false
+        },{
+            "key": "MOQ",
+            "label": "Minimum order quantity",
+            "options": [],
+            "multiple": false
+        },{
+            "key": "make",
+            "label": "Make",
+            "options": [],
+            "multiple": false
+        },{
+            "key": "color",
+            "label": "Color",
+            "options": [],
+            "multiple": true
+        },{
+            "key": "category_id",
+            "label": "Category",
+            "options": [],
+            "multiple": false
+        }
+    ],
+    "specifications": [
+        {
+            "key": "switch_types",
+            "label": "Switch Types",
+            "options": [
+                {
+                    "value": "Rocker",
+                    "label": "Rocker"
+                }
+            ]
+        },
+        {
+            "key": "current_rating",
+            "label": "Current Rating",
+            "options": []
+        },
+        {
+            "key": "material_body",
+            "label": "Material/Body",
+            "options": []
+        },
+        {
+            "key": "power_voltage",
+            "label": "Power/Voltage",
+            "options": []
+        },
+        {
+            "key": "operation_type",
+            "label": "Operation Type",
+            "options": []
+        },
+        {
+            "key": "model_name_number",
+            "label": "Model Name/Number",
+            "options": []
+        },
+        {
+            "key": "usage_application",
+            "label": "Usage/Application",
+            "options": []
+        },
+        {
+            "key": "brand",
+            "label": "Brand",
+            "options": []
+        },
+        {
+            "key": "no_of_switch_positions",
+            "label": "Number Of Switch Positions",
+            "options": []
+        },
+        {
+            "key": "country_of_origin",
+            "label": "Country of Origin",
+            "options": []
+        },
+        {
+            "key": "flame_retardancy",
+            "label": "Flame Retardancy",
+            "options": []
+        },
+        {
+            "key": "mechanical_strength",
+            "label": "Mechanical Strength",
+            "options": []
+        },
+        {
+            "key": "mounting_diameter",
+            "label": "Mounting Diameter",
+            "options": []
+        },
+        {
+            "key": "voltage",
+            "label": "Voltage",
+            "options": []
+        },
+        {
+            "key": "insulation_voltage",
+            "label": "Insulation Voltage",
+            "options": []
+        },
+        {
+            "key": "impulse_withstand_voltage",
+            "label": "Impulse Withstand Voltage",
+            "options": []
+        },
+        {
+            "key": "signalling_type",
+            "label": "Signalling Type",
+            "options": []
+        },
+        {
+            "key": "nema_degree",
+            "label": "Nema Degree",
+            "options": []
+        },
+        {
+            "key": "ik_degre",
+            "label": "Ik Degree",
+            "options": []
+        },
+        {
+            "key": "vibration_resistance",
+            "label": "Vibration Resistance",
+            "options": []
+        },
+        {
+            "key": "shock_resistance",
+            "label": "Shock Resistance",
+            "options": []
+        },
+        {
+            "key": "housing_type",
+            "label": "Housing Type",
+            "options": []
+        },
+        {
+            "key": "certification",
+            "label": "Certification",
+            "options": []
+        },
+        {
+            "key": "no_of_modules",
+            "label": "Number Of Modules",
+            "options": []
+        },
+        {
+            "key": "dielectric_strength",
+            "label": "Dielectric Strength",
+            "options": []
+        },
+        {
+            "key": "weight",
+            "label": "Weight",
+            "options": []
+        },
+        {
+            "key": "operating_humidity",
+            "label": "Operating Humidity",
+            "options": []
+        },
+        {
+            "key": "degree_of_protection",
+            "label": "Degree Of Protection",
+            "options": []
+        },
+        {
+            "key": "shock_protection_class",
+            "label": "Shock Protection Class",
+            "options": []
+        },
+        {
+            "key": "approval",
+            "label": "Approval",
+            "options": []
+        },
+        {
+            "key": "standard",
+            "label": "Standard",
+            "options": []
+        },
+        {
+            "key": "actuating_force",
+            "label": "Actuating Force",
+            "options": []
+        },
+        {
+            "key": "life_span",
+            "label": "Life Span",
+            "options": []
+        },
+        {
+            "key": "packaging_type",
+            "label": "Packaging Type",
+            "options": []
+        },
+        {
+            "key": "phase",
+            "label": "Phase",
+            "options": []
+        }
+    ]
+}
